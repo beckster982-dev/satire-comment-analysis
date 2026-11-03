@@ -20,7 +20,7 @@ Sampling Protocol -
 Start with a singular event: Clear release date: October 23rd, 00:00 UTC through 14 days after.
 Choose up to 10 videos: split them between traditional and satirical channels. Videos and channels chosen in the analysis will be listed in both config/events.json and docs/events_and_channels.md. 
 Only top-level comments: No replies are included in the analysis. Ordering parameter, order=time is used for each video so that relevance doesn't affect the call, since it switches each time. 
-Caps: We will use 500 top-level replies per video. The script will use a random sample of 500 if more than 500 comments are available. Cap of 5,000 comments for the project.
+Caps: use 500 top-level replies per video. The script will use a random sample of 500 if more than 500 comments are available. Cap of 5,000 comments for the project.
 Identifiers: The comment IDs and video IDs will be saved along with the timestamp of the API call. 
 Data storage: Raw data is stored in data/raw/, cleaned data is stored in data/clean/.
 Records: Reports are generated after each run, including duplicates, how many comments were in that window, and deleted comments. Deleted comments can't be recalled directly via the APIs, so they would have to be recorded by comparing comment IDs across collections.
