@@ -1,11 +1,11 @@
-# Indepdent commentary channels comment analysis 
+# Independent commentary channels comment analysis 
 How traditional and independent commentary channels and influencers cover the same event: comment analysis through Youtube. 
 
 Beckett Buchman | November 2026 | Status : Currently setting up 
 
 Research Question - How do independent commentary channels and traditional news channels frame the same event, and how do the sentiment and themes of their YouTube comment sections differ over the fourteen days following it?
 
-Event Focus - IPhone Duo Release (TBD). 
+Event Focus - IPhone Duo Release (October 23rd - November 6th 2026). 
 
 Channel List - 
 
